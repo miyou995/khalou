@@ -175,7 +175,7 @@ MESSAGE_TAGS = {
 CART_SESSION_ID = 'cart'
 
 
-# EMAIL CONFIGURATION -- HAVE TO: change later
+# EMAIL CONFIGURATION -- TODO: change later
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
