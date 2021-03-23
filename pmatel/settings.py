@@ -106,12 +106,15 @@ AUTHENTICATION_BACKENDS = (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'pmatel_db',
-        'USER':'postgres',
-        'PASSWORD': 'miyou0209',
+        'NAME': 'd30g6kpgofnqtu',
+        'HOST': 'ec2-34-203-255-149.compute-1.amazonaws.com',
+        'PORT':5432,
+        'USER':'oefaihjipgonmm',
+        'PASSWORD': '7b6a378a8ef2ef6b181385b154421ca8aa43bc07164a744354c98cd0a62649ce',
         
     }
 }
+
 
 
 # Password validation
