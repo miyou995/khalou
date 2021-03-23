@@ -26,7 +26,7 @@ SECRET_KEY = 'pjr6kq2zn&y&g-i-7q!g5n)^yz$*d124i8+55-4*d5ej7p=-9*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['pmatel-test-app-v1.herokuapp.com', '127.0.0.1', 'git.heroku.com/pmatel-test-app.git']
 
 
 # Application definition
